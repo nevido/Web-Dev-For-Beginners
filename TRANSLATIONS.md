@@ -1,7 +1,7 @@
 # Contribute by translating lessons
 
 We welcome translations for the lessons in this curriculum!
-
+추후에 제 이름을 추가하고 싶습니다
 ## Guidelines
 
 There are [**translations**](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages/translations) folders which contain the translated markdown files.
